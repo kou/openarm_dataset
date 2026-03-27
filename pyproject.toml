@@ -34,9 +34,9 @@ dependencies = [
 ]
 
 [project.urls]
-changelog = "https://github.com/enactic/openarm_dataset/releases"
-issues = "https://github.com/enactic/openarm_dataset/issues"
-repository = "https://github.com/enactic/openarm_dataset.git"
+Changelog = "https://github.com/enactic/openarm_dataset/releases"
+Issues = "https://github.com/enactic/openarm_dataset/issues"
+Repository = "https://github.com/enactic/openarm_dataset.git"
 
 [dependency-groups]
 dev = [
