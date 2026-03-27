@@ -31,6 +31,7 @@ class Frame:
         self.timestamp: float = self._get_timestamp()
 
     def __eq__(self, other):
+        """Compare whether the other is the same path Frame or not."""
         if not isinstance(other, self.__class__):
             return NotImplemented
         return self.path == other.path
