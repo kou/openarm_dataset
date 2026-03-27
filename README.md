@@ -116,7 +116,7 @@ uv run pytest
 
 ## Related links
 
-- 📚 Read the [documentation](https://docs.openarm.dev/software/can/)
+<!-- - 📚 Read the [documentation](https://docs.openarm.dev/software/dataset/) -->
 - 💬 Join the community on [Discord](https://discord.gg/FsZaZ4z3We)
 - 📬 Contact us through <openarm@enactic.ai>
 
